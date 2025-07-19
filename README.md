@@ -47,6 +47,8 @@ This repository contains all the completed tasks for the Front-End Development I
 Here’s a snapshot of the interface showing the form, interactive button, and live API data rendered on the page.
 
 ![Preview Screenshot](project_preview.png)
+![Preview Screenshot](https://i.imgur.com/yourimage.png)
+
 
 
 ---
