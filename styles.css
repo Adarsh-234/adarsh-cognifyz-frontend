@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+form {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input {
+    margin: 5px;
+    padding: 5px;
+}
+
+@media (max-width: 600px) {
+    body {
+        background-color: #e0f7fa;
+    }
+    h1 {
+        font-size: 24px;
+    }
+}
+
+#formMessage {
+    transition: all 0.4s ease;
+    font-weight: bold;
+    margin-top: 10px;
+}
